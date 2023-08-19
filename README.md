@@ -4,6 +4,7 @@
 - This application using Laravel 9 and MySQL database
 - Clone the repository
 - Install database birthday-message on database/birthday-message.sql
+- Rename file .env.example to .env
 - Run this step to install project
 ```bash
   composer install
